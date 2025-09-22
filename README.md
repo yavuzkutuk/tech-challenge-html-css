@@ -9,7 +9,7 @@ Vous disposez d’un équipement moderne : 50 machines et une connexion ultra-ra
 
 Le grand **Demo Day** approche, et des milliers d’invités prestigieux sont attendus. À vous de briller et de démontrer vos compétences !
 
-![image](https://storage.googleapis.com/quest_editor_uploads/YnCNCgNpjaPywmrdc5bBL0t7vSTWhZQe.jpg)
+![image](YnCNCgNpjaPywmrdc5bBL0t7vSTWhZQe.jpg)
 
 ---
 
@@ -20,9 +20,9 @@ Vous partirez d’un squelette HTML déjà préparé dans **CodeSandbox**. Avant
 1. Créez un compte sur [CodeSandbox](https://codesandbox.io).
 2. **Forkez** le projet starter pour conserver votre progression.
 
-👉 Starter : [CodeSandbox – Drylead Tech Challenge](https://codesandbox.io/s/techchallenge-web-dev-starter-mf0ep?file=/index.html)
+👉 Starter : [CodeSandbox – Drylead Tech Challenge]([https://codesandbox.io/s/techchallenge-web-dev-starter-mf0ep?file=/index.html](https://codesandbox.io/p/sandbox/n38plj))
 
-![The Royal Kingdom wireframes](https://storage.googleapis.com/quest_editor_uploads/hB7lA4DcCHLgeKIx7pmOpWIoF5I4PybS.png)
+![The Royal Kingdom wireframes](hB7lA4DcCHLgeKIx7pmOpWIoF5I4PybS.png)
 
 ---
 
@@ -69,7 +69,7 @@ Vous partirez d’un squelette HTML déjà préparé dans **CodeSandbox**. Avant
 ## ✅ Soumission
 À la fin, partagez le **lien de votre CodeSandbox** comme solution.
 
-![image](https://storage.googleapis.com/quest_editor_uploads/26duFW9gi7ZNQLrMxLHhHR0SkN3B5w27.jpg)
+![image](26duFW9gi7ZNQLrMxLHhHR0SkN3B5w27.jpg)
 
 ---
 
@@ -78,8 +78,4 @@ Deux jours plus tard, votre site est présenté au public. Le roi et ses invité
 
 **“Quand le code est clair, l’esprit l’est aussi !”**
 
-![image](https://storage.googleapis.com/quest_editor_uploads/swubgbT565hmFqXJec1SrfcgYJHokYW7.jpg)
-
 Vous avez gagné l’estime du royaume et montré votre savoir-faire de développeur.
-
-![image](https://storage.googleapis.com/quest_editor_uploads/CQfxLHeqcOX3PNIYOYllYRllk51w6w0B.jpg)
