@@ -9,7 +9,7 @@ Vous disposez d’un équipement moderne : 50 machines et une connexion ultra-ra
 
 Le grand **Demo Day** approche, et des milliers d’invités prestigieux sont attendus. À vous de briller et de démontrer vos compétences !
 
-![image](YnCNCgNpjaPywmrdc5bBL0t7vSTWhZQe.jpg)
+![image](Image450x297.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ Vous partirez d’un squelette HTML déjà préparé dans **CodeSandbox**. Avant
 
 👉 Starter : [CodeSandbox – Drylead Tech Challenge]([https://codesandbox.io/s/techchallenge-web-dev-starter-mf0ep?file=/index.html](https://codesandbox.io/p/sandbox/n38plj))
 
-![The Royal Kingdom wireframes](hB7lA4DcCHLgeKIx7pmOpWIoF5I4PybS.png)
+![The Royal Kingdom wireframes](Image1226x1185.png)
 
 ---
 
@@ -69,7 +69,7 @@ Vous partirez d’un squelette HTML déjà préparé dans **CodeSandbox**. Avant
 ## ✅ Soumission
 À la fin, partagez le **lien de votre CodeSandbox** comme solution.
 
-![image](26duFW9gi7ZNQLrMxLHhHR0SkN3B5w27.jpg)
+![image](Image600x270.jpg)
 
 ---
 
